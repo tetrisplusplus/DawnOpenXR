@@ -1,0 +1,4 @@
+[submodule "dawn"]
+	path = dawn
+	url = ../dawn
+	branch = openxr
